@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    
+}
+
+body {
+    background: linear-gradient(125deg,  #fff, #000);
+    height: 100vh;
+    
+}
+
+.container {
+    background-color: seashell;
+    position: relative;
+   
+}
+
+#myChart {
+    margin-top: 40px;
+    
+    
+}
+
+#myOtherChart {
+    margin-top: 80px;
+    
+}
